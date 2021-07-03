@@ -7,4 +7,5 @@
 * Twitter: [https://twitter.com/RealCheemsCoin](https://twitter.com/RealCheemsCoin)
 * Folding@Home: [https://stats.foldingathome.org/team/1060762](https://stats.foldingathome.org/team/1060762)
 * Honeyswap: [http://price.cheemsco.in/](http://price.cheemsco.in/)
+* Folding tutorial: [https://www.reddit.com/r/cryptocheems/comments/m2ob9x/how\_to\_fold\_for\_cheemscoin\_mining/](https://www.reddit.com/r/cryptocheems/comments/m2ob9x/how_to_fold_for_cheemscoin_mining/)
 
