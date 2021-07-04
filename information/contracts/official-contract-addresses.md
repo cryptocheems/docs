@@ -8,6 +8,10 @@ description: All Cheemscoin contracts
 
 **Cheemscoin token**: [`0xEaF7B3376173DF8BC0C22Ad6126943cC8353C1Ee`](https://blockscout.com/xdai/mainnet/address/0xEaF7B3376173DF8BC0C22Ad6126943cC8353C1Ee/contracts)
 
+{% hint style="info" %}
+**The following contracts have an "owner" which can execute exclusive functions.** The owner address is [`0xB67D4dd9F0E25760dC0f373d79588Bd0169b2335`](https://blockscout.com/xdai/mainnet/address/0xB67D4dd9F0E25760dC0f373d79588Bd0169b2335/transactions) and is controlled by the main developer.
+{% endhint %}
+
 {% hint style="warning" %}
  The following contracts have an "owner" which can execute exclusive functions. The owner address is [`0xB67D4dd9F0E25760dC0f373d79588Bd0169b2335`](https://blockscout.com/xdai/mainnet/address/0xB67D4dd9F0E25760dC0f373d79588Bd0169b2335/transactions) and is controlled by the main developer.
 {% endhint %}
@@ -19,9 +23,11 @@ description: All Cheemscoin contracts
 
 ## **Binance Smart Chain**
 
-**Note:** This was bridged from xDai using [https://omni.xdaichain.com](https://omni.xdaichain.com/)
+{% hint style="info" %}
+This was bridged from xDai using [https://omni.xdaichain.com](https://omni.xdaichain.com/)
+{% endhint %}
 
-* **Cheemscoin Token**: [`0xf2d86f9198a8373ad433496fcb2951248db1c79d`](https://bscscan.com/token/0xf2d86f9198a8373ad433496fcb2951248db1c79d) 
+* **Cheemscoin token**: [`0xf2d86f9198a8373ad433496fcb2951248db1c79d`](https://bscscan.com/token/0xf2d86f9198a8373ad433496fcb2951248db1c79d) 
 
 
 
