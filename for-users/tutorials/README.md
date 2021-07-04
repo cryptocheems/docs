@@ -8,3 +8,7 @@ description: A list of tutorials on various things in the Cheemscoin ecosystem
 This page is a list of tutorials.
 {% endhint %}
 
+{% page-ref page="binance-smart-chain-tutorial.md" %}
+
+{% page-ref page="farming-tutorial.md" %}
+
