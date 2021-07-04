@@ -5,8 +5,8 @@
 ## Information
 
 * [Contracts](information/contracts/README.md)
+  * [Contract Addresses](information/contracts/official-contract-addresses.md)
   * [Farming Addresses](information/contracts/farming-addresses.md)
-  * [Official Contract Addresses](information/contracts/official-contract-addresses.md)
 
 ## FOR USERS
 

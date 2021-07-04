@@ -1,18 +1,16 @@
 ---
-description: List of all token addresses created by Cheemscoin
+description: All Cheemscoin contracts
 ---
 
-# Official Contract Addresses
+# Contract Addresses
 
 ## xDai Chain
 
 **Cheemscoin token**: [`0xEaF7B3376173DF8BC0C22Ad6126943cC8353C1Ee`](https://blockscout.com/xdai/mainnet/address/0xEaF7B3376173DF8BC0C22Ad6126943cC8353C1Ee/contracts)
 
-### Important information
-
+{% hint style="warning" %}
  The following contracts have an "owner" which can execute exclusive functions. The owner address is [`0xB67D4dd9F0E25760dC0f373d79588Bd0169b2335`](https://blockscout.com/xdai/mainnet/address/0xB67D4dd9F0E25760dC0f373d79588Bd0169b2335/transactions) and is controlled by the main developer.
-
-### Other contracts
+{% endhint %}
 
 * **Fah**: [`0x8EA52113AF2a2ebbAb823037aFa6cc903B2BBbC8`](https://blockscout.com/xdai/mainnet/address/0x8EA52113AF2a2ebbAb823037aFa6cc903B2BBbC8/transactions)
   * This distributes the Folding@Home rewards
@@ -21,9 +19,9 @@ description: List of all token addresses created by Cheemscoin
 
 ## **Binance Smart Chain**
 
-**NOTE:** This was bridged from xDai using [https://omni.xdaichain.com](https://omni.xdaichain.com/)
+**Note:** This was bridged from xDai using [https://omni.xdaichain.com](https://omni.xdaichain.com/)
 
-* **Main token address**: [`0xf2d86f9198a8373ad433496fcb2951248db1c79d`](https://bscscan.com/token/0xf2d86f9198a8373ad433496fcb2951248db1c79d) 
+* **Cheemscoin Token**: [`0xf2d86f9198a8373ad433496fcb2951248db1c79d`](https://bscscan.com/token/0xf2d86f9198a8373ad433496fcb2951248db1c79d) 
 
 
 
