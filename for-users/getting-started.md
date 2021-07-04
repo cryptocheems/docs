@@ -4,6 +4,10 @@ description: Quick guide to start using Cheemscoin
 
 # Getting Started
 
+{% hint style="info" %}
+This isn't complete yet.
+{% endhint %}
+
 ## Introduction
 
 In this guide, it will show you how to set up your wallet for the xDai Chain, get some xDai and swapping it to get some Cheemscoin.

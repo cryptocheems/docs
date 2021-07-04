@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introducing Cheemscoin](README.md)
-* [Farming Addresses](farming-addresses.md)
 
 ## For Users
 
@@ -21,8 +20,6 @@
 
 * [Contracts](information/contracts/README.md)
   * [Contract Addresses](information/contracts/official-contract-addresses.md)
-
----
-
-* [Links](links.md)
+  * [Farming Addresses](information/contracts/farming-addresses.md)
+* [Links](information/links.md)
 
