@@ -26,13 +26,13 @@ Please check [this list](https://www.xdaichain.com/for-users/wallets) from the x
 
 Now that you have MetaMask setup with a wallet created \(or imported\), you'll need to add the xDai sidechain to your wallet to interact with Cheemscoin.
 
-### Add the xDai Chain
+### Add the xDai Chain and show Cheemscoin in your wallet
 
-An easy way to import the chain is importing it through [Chainlist](https://chainlist.org/). Chainlist allows you to easily import the xDai Chain into Metamask by connecting your wallet and importing any network listed there. First, connect your wallet.
+The official Cheemscoin website provides buttons on the homepage to easily add the xDai Chain and show Cheemscoin in your wallet. Simply go to the [main site](https://cheemsco.in), and press the buttons under the logo.
 
-![What you should see after you connect your wallet.](../.gitbook/assets/image%20%281%29.png)
+![They should look something like this.](../.gitbook/assets/image%20%287%29.png)
 
-Then, press **Add to Metamask** on the card that shows the xDai Chain. If you can't see it, then use the search bar to find it. When you press it, you will see a prompt that asks you to add it to your wallet, and then switching to it. Once you accept those prompts, you will now be connected to the xDai chain.
+Accept the prompts that show up when you press the buttons and open your wallet. Once there, you should be on the xDai network and have Cheems in your token list.
 
 ## Get some native xDai
 
