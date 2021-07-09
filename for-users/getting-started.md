@@ -44,6 +44,10 @@ If you're unable to buy through Ramp, the faucets are empty or don't have enough
 
 ### Bridging Dai
 
+{% hint style="info" %}
+This section hasn't been started on yet.
+{% endhint %}
+
 ### Faucets
 
 {% hint style="info" %}
