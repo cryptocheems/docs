@@ -12,5 +12,5 @@ description: >-
 
 ## **What is Cheemscoin?**
 
-Cheemscoin is the first and original Cheems-based token, created on the xDai Chain on Feburary 6, 2021. 
+Cheemscoin is the first and original Cheems-based token, created on the xDai Chain on Feburary 6, 2021.
 

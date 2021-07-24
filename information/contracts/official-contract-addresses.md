@@ -25,5 +25,3 @@ This was bridged from xDai using [https://omni.xdaichain.com](https://omni.xdaic
 
 * **Cheemscoin token**: [`0xf2d86f9198a8373ad433496fcb2951248db1c79d`](https://bscscan.com/token/0xf2d86f9198a8373ad433496fcb2951248db1c79d) 
 
-
-

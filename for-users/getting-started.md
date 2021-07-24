@@ -13,7 +13,7 @@ This isn't complete yet.
 In this guide, it will show you how to set up your wallet for the xDai Chain, get some xDai and swapping it to get some Cheemscoin.
 
 {% hint style="danger" %}
-However, when making any transaction on the xDai network, **always set your Gas Price to 1 gwei,** as xDai transaction fees are small and are really cheap.
+When making any transaction on the xDai network, **always set your Gas Price to 1 gwei,**  as that's usually enough for the transaction to confirm in a few seconds.
 {% endhint %}
 
 ## Preparing the wallet
@@ -94,6 +94,4 @@ First, open the application. Then, you should see a menu like this:
 {% hint style="success" %}
 Now you have Cheemscoin, and are able to do [other things](tutorials/) with it.
 {% endhint %}
-
-
 
