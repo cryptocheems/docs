@@ -7,6 +7,7 @@
 ## Farming
 
 * [Technical Details](farming/technical-details.md)
+* [Security](farming/security.md)
 
 ## Information
 

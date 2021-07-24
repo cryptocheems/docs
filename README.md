@@ -7,7 +7,7 @@ description: >-
 # Introducing Cheemscoin
 
 {% hint style="warning" %}
-**This documentation is currently under progress, so you may see some empty sections or pages.**
+**This documentation is currently under progress, so you may see some empty or incomplete sections and pages.**
 {% endhint %}
 
 ## **What is Cheemscoin?**
