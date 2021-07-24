@@ -30,7 +30,7 @@ Now that you have MetaMask setup with a wallet created \(or imported\), you'll n
 
 The official Cheemscoin website provides buttons on the homepage to easily add the xDai Chain and show Cheemscoin in your wallet. Simply go to the [main site](https://cheemsco.in), and press the buttons under the logo.
 
-![They should look something like this.](../.gitbook/assets/image%20%287%29.png)
+![They should look something like this.](.gitbook/assets/image%20%287%29.png)
 
 Accept the prompts that show up when you press the buttons and open your wallet. Once there, you should be on the xDai network and have Cheems in your token list.
 
@@ -73,7 +73,7 @@ Remember to check what currency you're buying in with the country selector in th
 
 [Ramp Network](https://ramp.network/buy/?defaultAsset=XDAI) is an exchange that allows you to buy some cryptocurrency with Fiat currencies, including directly buying native xDai. Looking at the prompt below, you will see something like this when you open the link.
 
-![What you will see upon opening the link. Currency may be different.](../.gitbook/assets/image%20%282%29.png)
+![What you will see upon opening the link. Currency may be different.](.gitbook/assets/image%20%282%29.png)
 
 Simply replace the first box with how much xDai you want to want to get in that currency, then proceed. You will be asked to add a email to create an account with Ramp. Enter an email in and verify your account. Once done, choose a way to pay and follow the instructions. Once you send the payment, you will connect your wallet to Ramp and you'll recieve the token.
 
@@ -83,15 +83,15 @@ Remember to choose the right wallet address.
 
 ## Get some Cheemscoin
 
-Now that you have enough xDai, you are able to swap it for some Cheems. There are [multiple places to swap it on the xDai network](where-to-buy-cheemscoin.md#xdai-chain), as well as a way to convert it [to and from BSC](tutorials/binance-smart-chain-tutorial.md).
+Now that you have enough xDai, you are able to swap it for some Cheems. There are [multiple places to swap it on the xDai network](where-to-buy-cheemscoin.md#xdai-chain), as well as a way to convert it [to and from BSC]().
 
 For this example, however, we're gonna be using the biggest supported exchange, [Honeyswap](https://app.honeyswap.org). Honeyswap is the biggest DeFi exchange on the xDai network, and features the most supply of Cheems.
 
 First, open the application. Then, you should see a menu like this:
 
-![The menu of Honeyswap.](../.gitbook/assets/image%20%284%29.png)
+![The menu of Honeyswap.](.gitbook/assets/image%20%284%29.png)
 
 {% hint style="success" %}
-Now you have Cheemscoin, and are able to do [other things](tutorials/) with it.
+Now you have Cheemscoin, and are able to do [other things]() with it.
 {% endhint %}
 

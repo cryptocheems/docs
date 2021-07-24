@@ -1,15 +1,12 @@
 # Table of contents
 
 * [Introducing Cheemscoin](README.md)
+* [Getting Started](getting-started.md)
+* [Where to buy Cheemscoin](where-to-buy-cheemscoin.md)
 
-## For Users
+## Farming
 
-* [Getting Started](for-users/getting-started.md)
-* [Farming](for-users/farming.md)
-* [Tutorials](for-users/tutorials/README.md)
-  * [Binance Smart Chain Tutorial](for-users/tutorials/binance-smart-chain-tutorial.md)
-  * [Farming Tutorial](for-users/tutorials/farming-tutorial.md)
-* [Where to buy Cheemscoin](for-users/where-to-buy-cheemscoin.md)
+* [Technical Details](farming/technical-details.md)
 
 ## Information
 

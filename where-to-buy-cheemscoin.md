@@ -29,5 +29,5 @@ These exchanges are no longer supported and don't have any Cheemscoin, or extrem
 
 ## Binance Smart Chain
 
-Currently, the only exchange on BSC that supports Cheemscoin's bridged variant is [**PancakeSwap**](https://exchange.pancakeswap.finance/#/swap), and the only pair is [`CHEEMS - WBNB`](../information/contracts/official-contract-addresses.md#binance-smart-chain).
+Currently, the only exchange on BSC that supports Cheemscoin's bridged variant is [**PancakeSwap**](https://exchange.pancakeswap.finance/#/swap), and the only pair is [`CHEEMS - WBNB`](information/contracts/official-contract-addresses.md#binance-smart-chain).
 
