@@ -2,7 +2,7 @@
 description: This page lists a complete list of addresses that are used for LP farming
 ---
 
-# Farming Addresses
+# LP Tokens
 
 ## xDai Chain
 

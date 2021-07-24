@@ -2,7 +2,7 @@
 description: All Cheemscoin contracts
 ---
 
-# Contract Addresses
+# Contracts
 
 ## xDai Chain
 

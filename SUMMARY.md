@@ -11,9 +11,9 @@
 
 ## Information
 
-* [Contracts](information/contracts/README.md)
-  * [Contract Addresses](information/contracts/official-contract-addresses.md)
-  * [Farming Addresses](information/contracts/farming-addresses.md)
+* [Addresses](information/contracts/README.md)
+  * [Contracts](information/contracts/official-contract-addresses.md)
+  * [LP Tokens](information/contracts/farming-addresses.md)
 * [History](information/history/README.md)
   * [2021](information/history/2021.md)
 * [Links](information/links.md)
