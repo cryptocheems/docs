@@ -18,7 +18,7 @@ description: This page lists a complete list of addresses that are used for LP f
 {% endtab %}
 
 {% tab title="CHEEMS - XDAI" %}
-\*\*\*\*[`0xce5382ff31b7a6f24797a46c307351fde135c0fd`](https://info.honeyswap.org/#/pair/0xce5382ff31b7a6f24797a46c307351fde135c0fd?chainId=100)\*\*\*\*
+[`0xce5382ff31b7a6f24797a46c307351fde135c0fd`](https://info.honeyswap.org/#/pair/0xce5382ff31b7a6f24797a46c307351fde135c0fd?chainId=100)
 {% endtab %}
 {% endtabs %}
 
@@ -39,4 +39,3 @@ description: This page lists a complete list of addresses that are used for LP f
 [`0x58D86fA82be09B3456d931fd8CD3Babcd4118C4B`](https://blockscout.com/xdai/mainnet/tokens/0x58D86fA82be09B3456d931fd8CD3Babcd4118C4B/)
 {% endtab %}
 {% endtabs %}
-
