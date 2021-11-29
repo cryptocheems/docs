@@ -6,7 +6,8 @@
 
 ## Farming
 
-* [Technical Details](farming/technical-details.md)
+* [Changes from HoneyFarm](farming/changes.md)
+* [APR Calculation](farming/apr-calculation.md)
 * [Security](farming/security.md)
 
 ## Information
@@ -17,4 +18,3 @@
 * [History](information/history/README.md)
   * [2021](information/history/2021.md)
 * [Links](information/links.md)
-
