@@ -7,7 +7,7 @@
 ## Farming
 
 * [Changes from HoneyFarm](farming/changes.md)
-* [APR Calculation](farming/apr-calculation.md)
+* [Rewards Calculation](farming/rewards-calculation.md)
 * [Security](farming/security.md)
 
 ## Information
