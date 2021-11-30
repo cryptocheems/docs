@@ -1,9 +1,5 @@
 # Rewards Calculation
 
-{% hint style="warning" %}
-This page is unfinished
-{% endhint %}
-
 The amount of Cheemscoin you will receive is in proportion to the number of LP tokens you deposited multiplied by the multiplier you chose compared to the amount of LP tokens other people deposited multiplied by the multipliers they chose. Essentially, you will get more Cheemscoin if you deposit more and/or other people deposit less.
 
 After you make a deposit, you can "harvest" your Cheemscoin rewards whenever you want but you cannot withdraw your LP tokens until the lock duration has passed. Note that after the lock duration has passed the multiplier will be set to 1x. If you want a higher multiplier, you must withdraw and redeposit.
@@ -20,7 +16,7 @@ The 1 year yield (APR) is simply calculated by multiplying the 24 hour yield by 
 
 This method of calculating APR/yield is generally fine for small deposits or when a large amount has already been deposited because your deposit won't affect the rate much; however, when the amount already in the pool is small or you are depositing a large amount, the real yield will be lower than displayed. For example, let's say there are currently 4 LP tokens deposited in the pool, each LP token is $1, the pool receives 40 Cheemscoin per day, and Cheemscoin is at $0.05. The APR that will be shown is 50%. Then you deposit 1 LP token. There's now 5 LP tokens in the pool so the new APR is 40%, lower than what was shown before you deposited.
 
-Besides this, there are many other factors that can positively or negatively affect your return on investment (ROI).
+Besides that, there are many other factors that can positively or negatively affect your real return on investment (ROI).
 
 ### Positive Factors (increase your ROI)
 
