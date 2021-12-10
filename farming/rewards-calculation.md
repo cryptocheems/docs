@@ -22,6 +22,7 @@ Besides that, there are many other factors that can positively or negatively aff
 
 * The price of Cheemscoin increasing
 * The price of the LP token increasing (this will decrease the displayed APR but it means you have an asset of a higher value now)
+* LP fee rewards
 * People withdrawing their deposits (leaving you with a higher portion of the rewards)
 * Compounding your investment (using your harvested Cheemscoin to buy more LP tokens and depositing them. This is like compound interest)
 
